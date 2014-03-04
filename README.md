@@ -12,3 +12,7 @@ This plugin is freely distributed for both personal or commercial use, provided 
 
 Official website: http://www.prelude-prod.fr/demo/pp3diso/
 
+---------------------------------------------------
+
+La version 1.xx fonctionne avec JQuery 1.8.3 et reste donc compatible avec IE6 et +. Elle utilise le projet ExplorerCanvas : http://code.google.com/p/explorercanvas/
+La version 2.xx fonctionne avec JQuery 2+ et n'est donc plus compatible avec IE6, 7 et 8 (JQuery ne prenant plus en compte ces navigateurs).

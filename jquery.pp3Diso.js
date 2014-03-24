@@ -4,8 +4,7 @@
  *
  * @author Jean-François RENAULD
  * @version 1.6
- * Cette oeuvre est mise à disposition selon les termes de la Licence Creative Commons Paternité - Partage à l'Identique 3.0 non transcrit.
- * http://creativecommons.org/licenses/by-sa/3.0/deed.fr
+ * Cette oeuvre est mise à disposition selon les termes de la Licence GPL v3 : http://www.gnu.org/licenses/gpl-3.0.txt
  *
  * Si vous utilisez ce plugin, vous devez mettre un lien retour vers le site : http://www.prelude-prod.fr
  *
